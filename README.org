@@ -218,3 +218,5 @@ I will go over basic of python and jupyter notebook.
 | 23 Jan | [[./https://mybinder.org/v2/gh/psnegi/data_science_tools1/master?filepath=notebooks/Data_science_at_command_prompt.ipynb][data science at command prompt]]   |                                                                                                                                                       |
 |--------+----------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------|
 |        |                                  |                                                                                                                                                       |
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sophearathchea/data_science_tools1/blob/master/hws/HW2.ipynb/master)
+
